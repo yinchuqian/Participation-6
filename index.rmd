@@ -1,0 +1,21 @@
+---
+title: "Participation 6"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(knitr)
+
+```
+
+## There are six visualizations made with **ggplot**
+
+![valid image](image/Rplot01.png)
+![valid image](image/Rplot02.png)
+
+![valid image](image/Rplot03.png)
+![valid image](image/Rplot04.png)
+![valid image](image/Rplot05.png)
+![valid image](image/Rplot06.png)
+
